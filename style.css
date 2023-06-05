@@ -1,3 +1,5 @@
 body {
     background: yellow;
+    color: red !important;
+    outline: 1px dashed red;
 }
